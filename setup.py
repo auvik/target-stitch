@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='target-stitch',
-      version='3.2.1+auvik1',
+      version='3.2.1+auvik2',
       description='Singer.io target for the Stitch API',
       author='Stitch',
       url='https://singer.io',
@@ -14,7 +14,7 @@ setup(name='target-stitch',
           'mock==2.0.0',
           'requests==2.31.0',
           'singer-python==5.8.0',
-          'psutil==5.6.6',
+          'psutil==5.6.7',
           'simplejson==3.11.1',
           'aiohttp==3.7.4',
           'cchardet==2.1.7',
